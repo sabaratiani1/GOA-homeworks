@@ -1,5 +1,5 @@
-age=35 
-age1=42
+shorena=35 
+zura=42
 
-print(age + 2 )
-print(age1 + 2)
+print(shorena + 2 )
+print(zura + 2)
