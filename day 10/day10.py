@@ -1,5 +1,11 @@
+registered_password = "saba1234"
+authorized = False 
 
-user_input = input("enter your password: ")
-if user_input == "saba" :
-    print("Accses granted")
-    authorized = "true"
+while authorized != True:
+    user_input = input("please enter your password: ")
+
+    if user_input == registered_password:
+         print("accses granted")
+         authorized = True 
+    else:
+         print("password incorrect please try again")
