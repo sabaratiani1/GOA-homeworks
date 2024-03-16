@@ -1,8 +1,8 @@
-print(input("Ra kaci xar"))
-if "answer" == "torti":
-    print("fulis axeva")
+print(input("Ra kaci xar: "))
+if "answer"== "torti":
+        print("fulis axeva")
 elif "answer" == "kai biwi":
-    print("dazmakaceba")
+        print("dazmakaceba")
 else:
-    print("cema")
+       print("cema")
 
